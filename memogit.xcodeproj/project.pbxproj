@@ -11,7 +11,7 @@
 		38C3170229C99DC9008EA7DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C3170129C99DC9008EA7DA /* ContentView.swift */; };
 		38C3170429C99DCA008EA7DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C3170329C99DCA008EA7DA /* Assets.xcassets */; };
 		38C3170729C99DCA008EA7DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C3170629C99DCA008EA7DA /* Preview Assets.xcassets */; };
-		38C3171029C9A300008EA7DA /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C3170F29C9A300008EA7DA /* SwiftUIView.swift */; };
+		38C3171029C9A300008EA7DA /* GameDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C3170F29C9A300008EA7DA /* GameDisplay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		38C3170129C99DC9008EA7DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		38C3170329C99DCA008EA7DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38C3170629C99DCA008EA7DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		38C3170F29C9A300008EA7DA /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		38C3170F29C9A300008EA7DA /* GameDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameDisplay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			children = (
 				38C316FF29C99DC9008EA7DA /* memogitApp.swift */,
 				38C3170129C99DC9008EA7DA /* ContentView.swift */,
-				38C3170F29C9A300008EA7DA /* SwiftUIView.swift */,
+				38C3170F29C9A300008EA7DA /* GameDisplay.swift */,
 				38C3170329C99DCA008EA7DA /* Assets.xcassets */,
 				38C3170529C99DCA008EA7DA /* Preview Content */,
 			);
@@ -142,7 +142,7 @@
 			files = (
 				38C3170229C99DC9008EA7DA /* ContentView.swift in Sources */,
 				38C3170029C99DC9008EA7DA /* memogitApp.swift in Sources */,
-				38C3171029C9A300008EA7DA /* SwiftUIView.swift in Sources */,
+				38C3171029C9A300008EA7DA /* GameDisplay.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
